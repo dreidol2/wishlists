@@ -54,7 +54,7 @@ gem 'bootstrap-sass'
 # gem 'country_select'
 
 # Email
-gem 'premailer-rails'
+gem 'premailer-rails', '>= 1.8.1'
 
 # Authentication
 gem 'devise'
